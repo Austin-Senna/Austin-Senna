@@ -27,6 +27,17 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
+🤖 **Data & AI/ML**
+
+![Google Cloud](https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/bigquery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Looker](https://img.shields.io/badge/looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/hugging_face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+
+
 🌐 **Web Development**
 
 ![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -36,18 +47,9 @@
 ![Puppeteer](https://img.shields.io/badge/puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-🤖 **Data & AI/ML**
-
-![Google Cloud](https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/hugging_face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
 🗄️ **Platforms**
 
-![Google BigQuery](https://img.shields.io/badge/bigquery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Looker](https://img.shields.io/badge/looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Apps Script](https://img.shields.io/badge/apps_script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
