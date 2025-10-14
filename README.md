@@ -10,7 +10,7 @@
 - 🎓 Studying Computer Science & Electrical Engineering at **Columbia University** (Expected May 2028).
 - 🤓 Scholarship Recipient of the **Indonesia Maju Scholarship**, a full-ride scholarship from the Ministry of Education of Indonesia.
 - 💡 Interested in data engineering, cloud analytics, and machine learning applications.
-- 🏆 Competed in **Clash of Champions Season 2**, finishing in the Top 9 among top Indonesian students from universities around the world.
+- 🏆 Competed in **Clash of Champions Season 2**, finishing in the Top 9 among top Indonesian university students around the world.
 - 🧪 Ranked 10th for the National Team Selection in the **55th International Chemistry Olympiad**.
 - 🕴️ Also a content creator in Tiktok and Instagram on the side. 
 
