@@ -1,6 +1,7 @@
 # Hi there, I'm Austin Senna Wijaya 👋
 
-<a href="https://landing-austin-flbemrjqu-austin-sennas-projects.vercel.app/"> portfolio site </a>
+Personal website:
+[https://landing-austin-flbemrjqu-austin-sennas-projects.vercel.app/](https://landing-austin-flbemrjqu-austin-sennas-projects.vercel.app/)
 
 
 <a href="https://www.linkedin.com/in/austin-senna/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
